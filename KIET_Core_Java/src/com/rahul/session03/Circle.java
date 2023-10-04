@@ -1,13 +1,13 @@
 package com.rahul.session03;
 
 public class Circle {
-private int radius;
-/*No Arg
-Circle(){
+ int radius;
+//No Arg
+ Circle(){
 	radius=5;
-}*/
+}
 //Parameterized 
-Circle (int r){
+private Circle (int r){
 	radius=r;
 }
 public int getRadius() {

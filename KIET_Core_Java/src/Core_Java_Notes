@@ -1,3 +1,4 @@
+Session 03
 /*
  * It is used to initialize the object.
  * Constructor is  a Special member method of the class
@@ -9,9 +10,16 @@
  * provided by JVM and initialized the object by its default value. 
  * 2. No Argument 
  * 3. Parameterized 
- 
+ Constructors never be inherited.
+ All the Access specifier applicable on Constructor
  imp: Constructor has no return type
  imp: if We provide explicit constructor to the class 
  then JVM Will not provide the Default Constructor
 
 */
+
+Task:  Constructor Chaining?
+what is Super?
+What is This ?
+Please Implement Simple | Multilevel | Hirarchal Inheritance
+Modifiers final | static
