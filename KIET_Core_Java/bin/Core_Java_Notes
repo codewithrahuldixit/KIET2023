@@ -1,0 +1,17 @@
+/*
+ * It is used to initialize the object.
+ * Constructor is  a Special member method of the class
+ * it has a Same name as class name 
+ * it is invoked implicitly when object of that particular class is created 
+ * There are Three type of constructor in java
+ * 1. Default : if we not provide any kind of constructor 
+ * in class then the default constructor 
+ * provided by JVM and initialized the object by its default value. 
+ * 2. No Argument 
+ * 3. Parameterized 
+ 
+ imp: Constructor has no return type
+ imp: if We provide explicit constructor to the class 
+ then JVM Will not provide the Default Constructor
+
+*/

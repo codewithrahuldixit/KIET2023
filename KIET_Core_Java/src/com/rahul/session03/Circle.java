@@ -2,7 +2,14 @@ package com.rahul.session03;
 
 public class Circle {
 private int radius;
-
+/*No Arg
+Circle(){
+	radius=5;
+}*/
+//Parameterized 
+Circle (int r){
+	radius=r;
+}
 public int getRadius() {
 	return radius;
 }
