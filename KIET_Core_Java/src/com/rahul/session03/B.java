@@ -10,7 +10,7 @@ public int getY() {
 public void setY(int y) {
 	this.y = y;
 	//The field A.x is not visible
-	super.x=20;
+	//super.x=20;
 }
 
 }

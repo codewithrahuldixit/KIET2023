@@ -17,9 +17,36 @@ Session 03
  then JVM Will not provide the Default Constructor
 
 */
+Scope :
+Local Variable : variable whoose scope is with in the block.
+
+Member Variable : those variable which is declared in class scope known as 
+member variable | Instance variable
+
+Class Variable :
 
 Task:  Constructor Chaining?
-what is Super?
-What is This ?
+
+what is Super : super is keyword used to hold the immediate parent class reference.
+What is this : this is keyword used to hold the current class reference.
 Please Implement Simple | Multilevel | Hirarchal Inheritance
 Modifiers final | static
+
+
+
+Task : 
+1. Memory Layout
+2. static 
+2. Garbage Collector | finalize method
+2. Polymorphism
+3. Abstract Classes & Interfaces | Functional Interfaces | Marker Intefaces
+4. Singleton Class 
+5. Exception 
+6. Lambda Expression
+7. Collection Framework
+8. Spring 
+
+
+
+
+
