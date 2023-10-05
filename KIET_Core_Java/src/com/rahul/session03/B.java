@@ -4,6 +4,7 @@ public class B extends A{
 int y ;
 
 public int getY() {
+	System.out.println();
 	return y;
 }
 
