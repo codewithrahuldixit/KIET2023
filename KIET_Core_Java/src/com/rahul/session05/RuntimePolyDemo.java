@@ -19,6 +19,6 @@ public static void main(String[] args) {
 	//c1.show();
 	Parent p1 = new Child();
 	p1.show();
-	p1.demo();
+	//p1.demo();
 }
 }

@@ -32,8 +32,23 @@ what is Super : super is keyword used to hold the immediate parent class referen
 What is this : this is keyword used to hold the current class reference.
 Please Implement Simple | Multilevel | Hirarchal Inheritance
 Modifiers final | static
-
-
+====================================================
+****** 
+1. Parent class reference variable can hold the 
+object of its own class or its subclasses.
+2. By using parent class reference variable 
+we access only those method of child class 
+which is overridden.
+==============================================
+Session : 6
+1.Abstract class is a class which object never be created.
+2. By Using Abstract class we achieve 
+abstraction in java.
+3. Abstract classes have contructors
+4. Abstract class may or may 
+not contain abstract method.
+=======================================================
+Interfaces 
 
 Task : 
 1. Memory Layout
