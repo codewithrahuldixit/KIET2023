@@ -61,6 +61,26 @@ Task :
 6. Lambda Expression
 7. Collection Framework
 8. Spring 
+=================================================
+Garbage Collector : Garbage Collector is used to 
+deallocate the unused Dynamic Object.
+it is invoked Periodically & Automatically.
+System.gc(); : To make request.
+
+finalize method is used to perform clean up activity 
+before the Object get deleted by the Garbage Collector.
+it invoked automatically.
+=============================================
+session 07 Assignment:
+ 
+Exception : 
+Lambda Expression :
+Object Class : String Class : Wrapper Class
+
+
+
+
+
 
 
 
