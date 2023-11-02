@@ -3,11 +3,11 @@ package com.rahul.session03;
 public class Circle {
  int radius;
 //No Arg
- Circle(){
+ public Circle(){
 	radius=5;
 }
 //Parameterized 
-private Circle (int r){
+public Circle (int r){
 	radius=r;
 }
 public int getRadius() {
@@ -21,4 +21,9 @@ public void setRadius(int radius) {
 public void area() {
 	System.out.println("The area of the circle is "+3.14*radius*radius);
 }
+@Override
+public String toString() {
+	return "Circle [radius=" + radius + "]";
+}
+
 }
