@@ -1,6 +1,6 @@
 package com.rahul.session03;
 
-public class Circle {
+public class Circle implements Comparable<Circle>{
  int radius;
 //No Arg
  public Circle(){
@@ -24,6 +24,13 @@ public void area() {
 @Override
 public String toString() {
 	return "Circle [radius=" + radius + "]";
+}
+@Override
+public int compareTo(Circle o) {
+	// TODO Auto-generated method stub
+	
+	return this.radius-o.radius;
+	
 }
 
 }

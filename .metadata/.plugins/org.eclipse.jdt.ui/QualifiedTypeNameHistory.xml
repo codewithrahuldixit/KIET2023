@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.rahul.session06.I1impl"/>
-    <fullyQualifiedTypeName name="com.rahul.session03.Circle"/>
     <fullyQualifiedTypeName name="com.rahul.session2.Circle"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="com.rahul.session03.Circle"/>
+    <fullyQualifiedTypeName name="com.rahul.session11.MyComparator"/>
 </qualifiedTypeNameHistroy>
